@@ -19,11 +19,11 @@
 
 ### Returning the exercises for grading
 
-When you have completed the exercises (and have them pushed to git) copy the link for the repository GitHub page and submit it in studentportalen.
+When you have completed the exercises (and have them pushed to GitHub) copy the link for the repository GitHub page and submit it in studentportalen.
 
 ## Robot Framework tests
 
-This time we will be doing some tests for [https://eficode.com]. The tests will be short and fairly simple, but there is no one correct way to do them.
+This time we will be doing some tests for https://eficode.com. The tests will be short and fairly simple, but there is no one correct way to do them.
 Instead focus on the good practices we have learned from the previouse exercises. Make keywords and variables and use resource files as you find appropriate.
 
 ### Robot Framework fundamentals training is one day
@@ -35,13 +35,13 @@ Instead focus on the good practices we have learned from the previouse exercises
 
 ### Stockholm office is visible in Sweden contact info
 
-* Navigate to [eficode.com/contact]
+* Navigate to [eficode.com/contact](https://www.eficode.com/contact)
 * Select Sweden from the countries filter
 * Verify that Stockholm office contact information is visible
 
 ### (optional) Helsinki office is not visible in Sweden contact info
 
-* Navigate to [eficode.com/contact]
+* Navigate to [eficode.com/contact](https://www.eficode.com/contact)
 * Select Sweden from the countries filter
 * Verify that Helsinki office contact information is **not** visible 
 
